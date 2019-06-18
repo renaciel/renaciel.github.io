@@ -1,0 +1,10 @@
+.menu{
+ font-family: 'Lobster', cursive;
+}
+.menu > a{
+  text-decoration: none;
+  color:black;
+}
+.menu > a:visited{
+  color: rgb(78, 2, 255);
+}
