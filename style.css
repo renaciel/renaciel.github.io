@@ -1,5 +1,6 @@
 .menu{
  font-family: 'Lobster', cursive;
+ text-alingn:center;
 }
 .menu > a{
   text-decoration: none;
