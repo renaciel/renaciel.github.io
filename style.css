@@ -1,11 +1,19 @@
 .menu{
  font-family: 'Lobster', cursive;
+ font-size: 15px;
  text-align:center;
 }
 .menu > a{
   text-decoration: none;
   color:black;
+  margin-right: 15px;
 }
 .menu > a:visited{
   color: rgb(78, 2, 255);
+}
+.menu > a:hover{
+  color: rgb(255, 2, 200);
+}
+h1{
+ color: rgb(166, 255, 2);
 }
